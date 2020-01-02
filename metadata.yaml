@@ -1,0 +1,32 @@
+_repo: Ma-Ein-Portrat_61010
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Andreas-Salomé, Lou
+    aliases:
+    - Salomé, Louise von
+    - Salomé, Lou
+    - Andreas-Salome, Lou
+    - Von Salomé, Louise
+    birthdate: 1861
+    deathdate: 1937
+    gutenberg_agent_id: '37791'
+    url: http://www.gutenberg.org/2009/agents/37791
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
+    - https://de.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
+description: ''
+gutenberg_issued: '2019-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61010'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Ma: Ein Porträt'
+url: http://www.gutenberg.org/ebooks/61010
