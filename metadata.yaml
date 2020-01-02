@@ -1,5 +1,8 @@
 _repo: Ma-Ein-Portrat_61010
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61010-h/images/cover.jpg
 creator:
   author:
     agent_name: Andreas-Salomé, Lou
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
     - https://de.wikipedia.org/wiki/Lou_Andreas-Salom%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61010#Ma-Ein-Portrat
 gutenberg_issued: '2019-12-24'
 gutenberg_type: Text
 identifiers:
